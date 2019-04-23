@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="c_ContactMe.xsl"?>
+<jobs>
+	<job>
+		<hireMngr>Hiring Manager</hireMngr>
+		<companyName>Wellsville Balloon Rally</companyName>
+        <road></road>
+        <city>Wellsville</city>
+        <state>NY</state>
+		<zip>14895</zip>
+		<phoneNum></phoneNum>
+		<email>thegreatwellsvilleballoonrally@hotmail.com</email>
+	</job>
+</jobs>
