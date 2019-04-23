@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="c_ContactMe.xsl"?>
+<addresses>
+	<address>
+		<road>4041 Mediterranean Dr.</road>
+		<state>New York</state>
+		<zip>14706</zip>
+		<phoneNum>(716)378-3823</phoneNum>
+		<email>kellybp@alfredstate.edu</email>
+	</address>
+<address><road>323</road><state>dvsgsdf</state><zip>123</zip><phoneNum/><email>s@d.com</email></address></addresses>

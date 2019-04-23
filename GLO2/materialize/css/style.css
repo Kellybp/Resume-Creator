@@ -1,0 +1,58 @@
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+    nav ul li:hover, nav ul li.active {
+        background-color: #000; 
+        color: #fff;}
+
+footer.page-footer {
+  margin: 0;
+}
+
+#navbar-fixed{
+   border-bottom-color: #2980B9;
+}
+
+main{
+  flex: 1 0 auto;
+}
+
+body{
+background-color: #fff;
+}
+
+.links{
+  background-color: transparent; 
+text-decoration: none;
+}
+.links:link {
+color: white; 
+}
+.links:visited {
+color: black;
+}
+.links:hover {
+color: #2980B9;
+text-decoration: underline;
+}
+.links:active {
+color:  #76D7C4;
+text-decoration: underline;
+}
+
+#delete_button{
+  background-color:#e57373;
+}

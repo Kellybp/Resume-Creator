@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--<?xml-stylesheet type="text/xsl" href="stock.xsl" ?>-->
+<Fquotes>
+	<quote>
+		<author>Jim Rohn</author>
+		<saying>Happiness is not something you postpone for the future; it is something you design for the present</saying>
+	</quote>
+	<quote>
+		<author>Maharishi Mahesh Yogi</author>
+		<saying>Happiness radiates like the fragrance from a flower and draws all good things towards you</saying>
+	</quote>
+	<quote>
+		<author>Frankiln D. Roosevelt</author>
+		<saying>Happiness lies in the joy of achievement and the thrill of creative effort</saying>
+	</quote>
+	<quote>
+		<author>Carol Burnett</author>
+		<saying>Only I can change my life. No one can do it for me</saying>
+	</quote>
+	<quote>
+		<author>Evan Enke</author>
+		<saying>Keep the faith brother</saying>
+	</quote>
+	<quote>
+		<author>Unknown</author>
+		<saying>The past cannot be chnaged. The future is yet in your power</saying>
+	</quote>
+</Fquotes>
