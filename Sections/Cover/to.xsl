@@ -22,6 +22,7 @@
         <xsl:if test="email != ''">
           <li><xsl:value-of select="email" /></li>
         </xsl:if>
+        <li>Dear <xsl:value-of select="hireMngr" />,</li>
       </ul>
     </xsl:for-each>
   </xsl:template>

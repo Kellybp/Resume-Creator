@@ -6,7 +6,7 @@ $xsl = new DOMDocument;
 $xsl->load('Sections/Cover/contactMe.xsl');
 
 $processing = new XSLTProcessor;
-$processing ->importStyleSheet($xsl);
+$processing->importStyleSheet($xsl);
 
 echo $processing->transformToXML($xml);
  ?>
