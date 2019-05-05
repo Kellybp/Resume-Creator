@@ -2,6 +2,8 @@
 	<form class="col s9" action="add_address.php" method="POST">
 		<input name="road">
 		<label class="active" for="road">road</label>
+		<input name="city">
+		<label class="active" for="city">city</label>
 		<input name="state">
 		<label class="active" for="state">state</label>
 		<input name="zip">
